@@ -4,7 +4,7 @@ Config.GaragePedLocations = {
     {coords = vector4(-1178.588, -891.9196, 13.799622, 302.58825)},
 }
 
---if u are not using qb-target uncomment this.
+--if u are not using qb-target uncomment this. you can change anything you'd like
 
 --[[Config.Locations = {
     ["duty"] = {
@@ -52,7 +52,7 @@ Config.GaragePedLocations = {
         [1] = vector3(90.6, 293.01, 110.05),
     }, 
 }]]
-Config.StashLoc = vector3(-1198.1, -893.21, 14.0)
+Config.StashLoc = vector3(-1198.1, -893.21, 14.0) --stash location
 
 Config.Items = {
 label = "Shop",
